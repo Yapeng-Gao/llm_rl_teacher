@@ -10,6 +10,7 @@ pip install gymnasium torch numpy matplotlib tqdm openai
 
 ### 2.配置模型
 
+conf/config.yaml
 ```bash
 llm:
   models:
